@@ -11,44 +11,44 @@ import boy3 from '../assets/svg/testimonials/boy3.svg'
 export const testimonialsData = [
     {
         id: 1,
-        name: 'Chandler Bing',
-        title: 'Transponster',
-        text: "Building my own portfolio could've never been easier than this. The only areas I'm good at are Math, Jokes and Dance.",
+        name: 'Ahmed Kamal',
+        title: 'Senior Software Engineer',
+        text: "Working with Mohamed has been a pleasure. His expertise in .NET back-end development and clean code practices consistently exceeded our expectations.",
         image: boy2
     },
     {
         id: 2,
-        name: 'Monica Geller',
-        title: 'Head Chef',
-        text: "This is the only thing that I didn't have to spend time to sort out. It's tidy all by itself.",
+        name: 'Sara Mostafa',
+        title: 'Front-End Developer',
+        text: "Collaborating with Mohamed was seamless. His APIs were always well-documented, reliable, and easy to integrate with our front-end systems.",
         image: girl2
     },
     {
         id: 3,
-        name: 'Phoebe Buffay',
-        title: 'Massuese',
-        text: "Heard of the song 'Smelly Cat!!' ? This website made it viral. Plus portfolio is the only thing that Ursula doesn't have :)",
+        name: 'Nour El-Din',
+        title: 'UX/UI Designer',
+        text: "Mohamed understands how back-end logic impacts user experience. His attention to detail made my designs truly come alive.",
         image: girl1
     },
     {
         id: 4,
-        name: 'Joey Tribbiani',
-        title: 'Actor',
-        text: "Making my portfolio with this helped me get my role as 'Dr. Drake Ramoray' in 'Days Of Our Lives'. You guys are the best !",
+        name: 'Omar Hassan',
+        title: 'Project Manager',
+        text: "Mohamed brings both technical skill and problem-solving creativity to the team. His competitive programming background is evident in his efficient solutions.",
         image: boy1
     },
     {
         id: 5,
-        name: 'Rachel Green',
-        title: 'Sales Executive',
-        text: 'Ralph Lauren was one of the best things that ever happened to me. My portfolio made that dream happen. I owe you guys.',
+        name: 'Lina Fathy',
+        title: 'QA Engineer',
+        text: 'Testing Mohamed’s work was a breeze. His code was clean, well-structured, and passed most of our test cases on the first attempt.',
         image: girl3
     },
     {
         id: 6,
-        name: 'Ross Geller',
-        title: 'Paleontologist',
-        text: "Be it 'Rocks' or 'Bones', you need a website to display it. This is it. Great work guys !",
+        name: 'Karim Saleh',
+        title: 'DevOps Engineer',
+        text: "What impressed me most is his ability to bridge back-end development with deployment processes, making our systems more reliable and scalable.",
         image: boy3
     }
 ]

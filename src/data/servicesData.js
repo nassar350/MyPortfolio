@@ -7,19 +7,19 @@ import { FaInternetExplorer,  FaChalkboardTeacher, FaCameraRetro, FaPinterest, F
  
 
 export const servicesData = [
-    // {
-    //     id: 1,
-    //     title: 'Marketing',
-    //     icon: <BiShoppingBag/>
-    // },
+    {
+        id: 1,
+        title: 'Web & Application Development',
+        icon: <BiShoppingBag/>
+    },
     {
         id: 2,
-        title: 'Content Writing',
+        title: 'Database Service',
         icon: <BiPencil /> 
     },
     {
         id: 3,
-        title: 'Email Marketing',
+        title: 'Back-End Service',
         icon: <AiOutlineMail />
     },
     // {
@@ -35,12 +35,12 @@ export const servicesData = [
 
     {
         id: 6,
-        title: 'Web Design',
+        title: 'Front-End Service',
         icon: <BsCodeSlash />
     },
     {
         id: 7,
-        title: 'Photography',
+        title: 'Integration Service',
         icon: <FaCameraRetro />
     },
     // {
@@ -50,7 +50,7 @@ export const servicesData = [
     // }, 
     {
         id: 9,
-        title: 'Video Editing',
+        title: 'Deployment & Hosting',
         icon: <FaVideo />
     },
     // {
@@ -60,7 +60,7 @@ export const servicesData = [
     // },
     {
         id: 11,
-        title: 'Ebook Writing',
+        title: 'Security & Optimization',
         icon: <FaTabletAlt />
     },
     // {
@@ -70,7 +70,7 @@ export const servicesData = [
     // },
     {
         id: 13,
-        title: 'Blog Posting',
+        title: 'Maintenance & Support',
         icon: <FaRegNewspaper />
     },
 

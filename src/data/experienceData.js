@@ -1,23 +1,23 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Globex Corporation',
-        jobtitle: 'Frontend Developer',
-        startYear: '2018',
-        endYear: '2019'
+        company: 'ICPC Menofia Community',
+        jobtitle: 'Competitive Programmer',
+        startYear: 'Mar 2023',
+        endYear: 'Dec 2024'
     },
     {
         id: 2,
-        company: 'Vehement Capital Partners',
-        jobtitle: 'Backend Developer',
-        startYear: '2019',
-        endYear: '2020'
+        company: 'Digital Egypt Pioneers Initiative',
+        jobtitle: 'Full Stack .NET Developer',
+        startYear: 'Jun 2025',
+        endYear: 'Dec 2025'
     },
-    {
-        id: 3,
-        company: 'Wonka Industries',
-        jobtitle: 'Marketing',
-        startYear: '2020',
-        endYear: 'Present'
-    },
+    // {
+    //     id: 3,
+    //     company: 'Wonka Industries',
+    //     jobtitle: 'Marketing',
+    //     startYear: '2020',
+    //     endYear: 'Present'
+    // },
 ]
