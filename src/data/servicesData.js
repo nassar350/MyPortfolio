@@ -1,6 +1,6 @@
 /* eslint-disable */
-import { BiShoppingBag, BiPencil } from "react-icons/bi";
-import { BsCodeSlash, BsClipboardData } from "react-icons/bs";
+import { BiShoppingBag, BiPencil, BiBug } from "react-icons/bi";
+import { BsCodeSlash, BsClipboardData, BsServer } from "react-icons/bs";
 import { AiOutlineMail, AiFillAudio } from "react-icons/ai";
 import { FaInternetExplorer,  FaChalkboardTeacher, FaCameraRetro, FaPinterest, FaVideo, FaTabletAlt, FaRegNewspaper } from "react-icons/fa";
 
@@ -15,12 +15,12 @@ export const servicesData = [
     {
         id: 2,
         title: 'Database Service',
-        icon: <BiPencil /> 
+        icon: <BsServer /> 
     },
     {
         id: 3,
         title: 'Back-End Service',
-        icon: <AiOutlineMail />
+        icon: <BiBug />
     },
     // {
     //     id: 4,
@@ -30,7 +30,7 @@ export const servicesData = [
     // {
     //     id: 5,
     //     title: 'Tutoring',
-    //     icon: <FaChalkboardTeacher />
+    //     icon: <BiPencil />
     // },
 
     {
@@ -53,16 +53,16 @@ export const servicesData = [
         title: 'Deployment & Hosting',
         icon: <FaVideo />
     },
-    // {
-    //     id: 10,
-    //     title: 'Data Entry', 
-    //     icon: <BsClipboardData />
-    // },
     {
-        id: 11,
-        title: 'Security & Optimization',
-        icon: <FaTabletAlt />
+        id: 10,
+        title: 'Security & Optimization', 
+        icon: <BsClipboardData />
     },
+    // {
+    //     id: 11,
+    //     title: '',
+    //     icon: <FaTabletAlt />
+    // },
     // {
     //     id: 12,
     //     title: 'Audio Transcription',
@@ -71,7 +71,7 @@ export const servicesData = [
     {
         id: 13,
         title: 'Maintenance & Support',
-        icon: <FaRegNewspaper />
+        icon: <FaChalkboardTeacher />
     },
 
 ]
